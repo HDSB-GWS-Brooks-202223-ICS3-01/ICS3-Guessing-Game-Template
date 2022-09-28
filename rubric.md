@@ -13,6 +13,7 @@
 - [ ] Variables are named following ics3 naming convention.
 - [ ] Comments are included on major parts of the code
 - [ ] Flowchart is neat and organized.
+- [ ] Program reflection and self-evaluation completed
 - [ ] Regular git and descriptive commits of project made to repo.
 
 **Overall C:** 
@@ -32,10 +33,11 @@
 ### Level 3 Requirements
 
 - [ ] Use the randint command within your program to enhance functionality.
+- [ ] Game can be replayed without running the program again (loops!)
 
 ### Level 4 Requirements
 
-- [ ] Game can be replayed without running the program again (loops!)
+- [ ] Use error checking and loops to make sure the program doesn’t crash.
 
 - [ ] **4+** Make it awesome! Improve the program by adding extra features.
 
